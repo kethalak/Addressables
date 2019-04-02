@@ -19,9 +19,9 @@
     <type fullname="UnityEngine.BoxCollider" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="TestSO" preserve="all" />
     <type fullname="TestMaterialSO" preserve="all" />
     <type fullname="AmazingScript" preserve="all" />
+    <type fullname="TestSO" preserve="all" />
   </assembly>
   <assembly fullname="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEditor.MonoScript" preserve="all" />
